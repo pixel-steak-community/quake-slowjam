@@ -1,1 +1,1 @@
-# quake-map-community-project
+# quake-slowjam
