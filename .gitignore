@@ -1,0 +1,19 @@
+# Ignore IDE files
+.idea
+.vscode
+.vs
+/vs
+
+# Ignore OS artifacts
+.DS_Store
+
+# Ignore BSP compile artifacts
+sj/maps/*.log
+sj/maps/*.bsp
+
+# Ignore id.wad
+sj/wads/id.wad
+
+# Ignore build artifacts
+sj.pak
+sj/maps/*.bsp

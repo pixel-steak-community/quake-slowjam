@@ -1,0 +1,7 @@
+// Game: Quake
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"wad" "../wads/id.wad;../wads/sj.wad"
+}
