@@ -10,6 +10,7 @@ We want maps to resemble those of the original ID maps:
 - The map should be based on a pre-existing map WAD (this doesn't mean it can't be customized)
 - The map file size should be < 1.44mb
 - The use of Valve 220 (GoldSrc) format is recommended for correct UV mapping (an option when creating maps in Trenchbroom)
+- Branch off the master and modify/add files to the /sj/ directory (you will need to coordinate on discord)
 
 ## Resources
 
