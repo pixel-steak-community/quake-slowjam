@@ -31,15 +31,6 @@ progs_dump: http://www.quaketastic.com/files/single_player/mods/progs_dump_devki
 - Progs_dump tutorials: https://www.youtube.com/playlist?list=PLgDKRPte5Y0DDdXGWAhM8IowCjcjVmblm
 - How to configure Trenchbroom to use EricW's tools: https://pastebin.com/9w8PNKp0
 
-## Configuration
-
-1. Place a copy of your files in a subfolder with your initials. Example: /sj/
-2. Include your resources in folders such as (see the sj subdirectory for an example):
-  - maps
-  - wads
-  - gfx
-3. Include a readme explaining your maps, if you so desire, so that others can maintain your ideas when they edit your files.
-
 ## License
 MIT
 
