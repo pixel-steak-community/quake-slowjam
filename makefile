@@ -18,7 +18,7 @@ map-4:
 	qbsp sj/maps/sj_map04.map
 
 wad:
-	cd sj/gfx && ls *.png | wad sj.wad && mv sj.wad ../wads/sj.wad
+	cd src/wad && ls *.png | wad sj.wad && mv sj.wad ../../sj/wads/sj.wad
 
 pak:
 	cd sj && find . -print | pak sj.pak && mv sj.pak ..
