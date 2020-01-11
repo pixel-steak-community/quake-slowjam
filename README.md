@@ -17,6 +17,7 @@ We want maps to resemble those of the original ID maps:
 The following resources will help you with this jam:
 ### Map Editor of choice
 Trenchbroom: https://kristianduske.com/trenchbroom/
+![Trenchbroom in action](https://media.moddb.com/images/members/1/473/472463/profilemoddb/riPcFnE.png)
 ### Compilation utilities
 ericw-tools: https://ericwa.github.io/ericw-tools/
 ### Textures
