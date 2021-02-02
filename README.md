@@ -25,9 +25,10 @@ The wads for every map in the original map source: http://www.quaketastic.com/fi
 ### Dev Toolkit
 We are using Dumptruck_ds's progs_dump, which is a devkit to help mappers by providing additional mapping options without adding anything new to the core gameplay loop of Quake. For this jam it seems appropriate as you can use vgio (https://vgio.readthedocs.io/en/latest/) to create new content for you maps and progs_dump will let you include them into the map. 
 
-Download progs_dump v200
+### Download progs_dump v200
 
 from Quaketastic: http://www.quaketastic.com/files/single_player/mods/progs_dump_devkit_v200.zip
+
 from Drive: https://tinyurl.com/yyq7goec
 
 ### Additional information about configuring all of the above
